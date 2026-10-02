@@ -21,5 +21,5 @@
 
 ## Connect With Me
 
-* [LinkedIn]( www.linkedin.com/in/gauravlamichhane-018skt )
+* [LinkedIn] (www.linkedin.com/in/gauravlamichhane-018skt )
 * [YouTube] ( https://www.youtube.com/@oars_arc1 )

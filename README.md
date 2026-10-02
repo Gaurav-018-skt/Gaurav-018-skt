@@ -1,23 +1,56 @@
-# Hi, I'm Gaurav 👋
+Hi, I'm Gaurav 👋
 
 🎓 IT Student from Nepal
-💻 Exploring software and web development
+💻 Exploring Software & Web Development
 🚀 Learning by building projects and experimenting with technology
-🎨 Interested in video editing, graphic design and content creation
+🎨 Interested in Video Editing, Graphic Design & Content Creation
 
-## Currently Learning
+👨‍💻 About Me
 
-* C Programming
-* HTML & CSS
-* JavaScript
-* DBMS
-* Software Development
+I'm an IT student interested in technology, software development, and creative digital work.
 
-## Creative Work
+I'm currently building my foundation in programming and web development while working on personal projects to improve my practical skills.
 
-* YouTube Thumbnail Design
-* Video Editing
-* Graphic Designing
+I enjoy learning new technologies, experimenting with ideas, and turning what I learn into projects.
+
+🛠️ Currently Learning
+C Programming
+HTML & CSS
+JavaScript
+Database Management Systems
+Software Development
+Git & GitHub
+🎨 Creative Skills & Interests
+YouTube Thumbnail Design
+Video Editing
+Motion Graphics
+Infographics
+Content Creation
+
+## 📂 Projects & Creative Work
+
+### 💻 Programming
+* C programming projects
+* Beginner programming exercises
+* Problem-solving practice
+
+### 🌐 Web Development
+* HTML & CSS projects
+* JavaScript projects *(currently learning)*
+
+### 🎨 Creative Work
+* YouTube thumbnail designs
+* Motion graphics
+* Infographics
+* Video editing & content creation
+
+📊 My Goals
+Build strong programming fundamentals
+Learn modern web development
+Create real-world projects
+Improve my problem-solving skills
+Build a strong portfolio
+Explore different areas of technology
 
 ## Connect With Me
 
